@@ -20,6 +20,5 @@
     * M(Monetary)
 4. Identifying the Best Cluster Count
     * Elbow method
-    * Silhouette analysis
 5. Clustering with K-Means
 6. Visualizing the Clusters
